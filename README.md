@@ -1,4 +1,4 @@
-# project1-github
-project1-github 
+# project1
+project1
 
 This is a sample project created for practice
